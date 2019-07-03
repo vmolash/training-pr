@@ -1,2 +1,12 @@
 # training-pr
-edit1_by_Yulia_R 10.38am, July 2.
+
+06/07/2019 aulaska
+added text
+Hey,Olya )) Its Lyuda)
+
+New solution to accept
+addition
+
+Hi Olya,
+conflict is resolved now! :)
+
