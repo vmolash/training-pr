@@ -7,4 +7,6 @@ Hey,Olya )) Its Lyuda)
 New solution to accept
 addition
 
+Hi Olya,
+conflict is resolved now! :)
 
