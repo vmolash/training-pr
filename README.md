@@ -10,3 +10,13 @@ addition
 Hi Olya,
 conflict is resolved now! :)
 
+[Reversed Words](https://www.codewars.com/kata/reversed-words/javascript)
+
+```javascript
+function reverseWords(str){
+ let a = str.split(' ')
+ let b = a.reverse();
+ let c = b.join(' ');
+  return c
+}
+```
