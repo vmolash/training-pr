@@ -10,6 +10,8 @@ addition
 Hi Olya,
 conflict is resolved now! :)
 
+/*This ia a Ruslan, I added a couple of solutions/*
+
 [Reversed Words](https://www.codewars.com/kata/reversed-words/javascript)
 
 ```javascript
